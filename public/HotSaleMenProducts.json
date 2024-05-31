@@ -1,0 +1,56 @@
+[
+    {
+      "id": 31,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717159981/image_76_fhh7es.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717160094/1-02_bfygaw.webp",
+      "price": 17.5,
+      "productName": "Tee shirt",
+      "category": "Electronics",
+      "starRating": 3
+    },
+    {
+      "id": 32,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717160171/image_123_rs1smw.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717160175/image_127_tydlyc.webp",
+      "price": 30,
+      "productName": "Sweatshirt",
+      "category": "Clothing",
+      "starRating": 4
+    },
+    {
+      "id": 33,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717155764/image_15_nixsdf.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717158107/image_13_raiksu.webp",
+      "price": 75,
+      "productName": "Jogging set",
+      "category": "Accessories",
+      "starRating": 5
+    },
+    {
+      "id": 34,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717177333/image_82_zliov3.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717177367/image_83_agv9zt.webp",
+      "price": 30,
+      "productName": "Tee shirt",
+      "category": "Home Decor" ,
+      "starRating": 2
+    },
+    {
+      "id": 35,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717157162/image_6_nb2rft.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717157162/image_3_wcgv4r.webp",
+      "price": 30,
+      "productName": "Casquette - hat",
+      "category": "Home Decor" ,
+      "starRating": 4
+    },
+    {
+      "id": 36,
+      "img": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717157283/image_32_gp7ljb.webp",
+      "backImg": "https://res.cloudinary.com/dyheyioq8/image/upload/v1717157282/image_31_llymy4.webp",
+      "price": 75,
+      "productName": "Jogging set",
+      "category": "Home Decor" ,
+      "starRating": 5
+    }
+  ]

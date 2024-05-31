@@ -1,0 +1,56 @@
+[
+    {
+      "id": 49,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 29.99,
+      "productName": "Product 1",
+      "category": "Electronics",
+      "starRating": 5
+    },
+    {
+      "id": 50,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 39.99,
+      "productName": "Product 2",
+      "category": "Clothing" ,
+      "starRating": 2
+    },
+    {
+      "id": 51,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 49.99,
+      "productName": "Product 3",
+      "category": "Accessories" ,
+      "starRating": 4
+    },
+    {
+      "id": 52,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 19.99,
+      "productName": "Product 4",
+      "category": "Home Decor" ,
+      "starRating": 3
+    },
+    {
+      "id": 53,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 19.99,
+      "productName": "Product 4",
+      "category": "Home Decor" ,
+      "starRating": 2
+    },
+    {
+      "id": 54,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 19.99,
+      "productName": "Product 4",
+      "category": "Home Decor" ,
+      "starRating": 0
+    }
+  ]

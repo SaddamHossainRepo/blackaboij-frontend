@@ -1,0 +1,137 @@
+[
+    {
+        "id": 121,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 29.99,
+        "productName": "Product 1",
+        "category": "Electronics",
+        "starRating": 5
+    },
+    {
+        "id": 122,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 39.99,
+        "productName": "Product 2",
+        "category": "Clothing",
+        "starRating": 4
+    },
+    {
+        "id": 123,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 49.99,
+        "productName": "Product 3",
+        "category": "Accessories",
+        "starRating": 4.5
+    },
+    {
+        "id": 124,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 4",
+        "category": "Home Decor",
+        "starRating": 3.8
+    },
+    {
+        "id": 125,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 5",
+        "category": "Home Decor",
+        "starRating": 4.2
+    },
+    {
+        "id": 126,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 6",
+        "category": "Home Decor",
+        "starRating": 4.7
+    },
+    {
+        "id": 127,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 7",
+        "category": "Home Decor",
+        "starRating": 3.5
+    },
+    {
+        "id": 128,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 8",
+        "category": "Home Decor",
+        "starRating": 4.8
+    },
+    {
+        "id": 129,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 9",
+        "category": "Home Decor",
+        "starRating": 3.2
+    },
+    {
+        "id": 130,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 10",
+        "category": "Home Decor",
+        "starRating": 4.6
+    },
+    {
+        "id": 131,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 11",
+        "category": "Home Decor",
+        "starRating": 3.9
+    },
+    {
+        "id": 132,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 12",
+        "category": "Home Decor",
+        "starRating": 4.1
+    },
+    {
+        "id": 133,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 13",
+        "category": "Home Decor",
+        "starRating": 3.6
+    },
+    {
+        "id": 134,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 14",
+        "category": "Home Decor",
+        "starRating": 4.0
+    },
+    {
+        "id": 135,
+        "img": "https://i.ibb.co/QbmPnfR/BLVCK0055-360x.webp",
+        "backImg": "https://i.ibb.co/DQ3H9Xt/BLVCK0067-360x.webp",
+        "price": 19.99,
+        "productName": "Product 15",
+        "category": "Home Decor",
+        "starRating": 3.7
+    }
+]

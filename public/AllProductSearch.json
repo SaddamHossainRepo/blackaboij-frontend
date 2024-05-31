@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 29.99,
+      "productName": "Elegant Necklace",
+      "category": "Accessories",
+      "starRating": 5.0
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 39.99,
+      "productName": "Classic Sunglasses",
+      "category": "Accessories",
+      "starRating": 4.0
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 49.99,
+      "productName": "Cozy Socks Set",
+      "category": "Accessories",
+      "starRating": 4.5
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/pfY6LqX/BLACKNOV1068-720x.webp",
+      "backImg": "https://i.ibb.co/qyvW69S/BLACKNOV1069-6d033d71-9d63-48ba-8ae8-90cd28bd7a55-720x.webp",
+      "price": 19.99,
+      "productName": "Chic Bracelet",
+      "category": "Accessories",
+      "starRating": 3.8
+    },
+    {
+      "id": 5,
+      "img": "https://example.com/menproduct1.jpg",
+      "backImg": "https://example.com/menproductback1.jpg",
+      "price": 34.99,
+      "productName": "Stylish Men's Shirt",
+      "category": "MenProducts",
+      "starRating": 4.2
+    },
+    {
+      "id": 6,
+      "img": "https://example.com/menproduct2.jpg",
+      "backImg": "https://example.com/menproductback2.jpg",
+      "price": 44.99,
+      "productName": "Comfortable Men's Pants",
+      "category": "MenProducts",
+      "starRating": 3.9
+    },
+    {
+      "id": 7,
+      "img": "https://example.com/menproduct3.jpg",
+      "backImg": "https://example.com/menproductback3.jpg",
+      "price": 29.99,
+      "productName": "Fashionable Men's Jacket",
+      "category": "MenProducts",
+      "starRating": 4.7
+    },
+    {
+      "id": 8,
+      "img": "https://example.com/womenproduct1.jpg",
+      "backImg": "https://example.com/womenproductback1.jpg",
+      "price": 34.99,
+      "productName": "Elegant Women's Dress",
+      "category": "WomenProducts",
+      "starRating": 4.0
+    },
+    {
+      "id": 9,
+      "img": "https://example.com/womenproduct2.jpg",
+      "backImg": "https://example.com/womenproductback2.jpg",
+      "price": 44.99,
+      "productName": "Stylish Women's Shoes",
+      "category": "WomenProducts",
+      "starRating": 4.7
+    },
+    {
+      "id": 10,
+      "img": "https://example.com/womenproduct3.jpg",
+      "backImg": "https://example.com/womenproductback3.jpg",
+      "price": 29.99,
+      "productName": "Chic Handbag",
+      "category": "WomenProducts",
+      "starRating": 3.5
+    },
+    {
+      "id": 11,
+      "img": "https://example.com/womenproduct4.jpg",
+      "backImg": "https://example.com/womenproductback4.jpg",
+      "price": 54.99,
+      "productName": "Fancy Women's Earrings",
+      "category": "Accessories",
+      "starRating": 4.2
+    },
+    {
+      "id": 12,
+      "img": "https://example.com/womenproduct5.jpg",
+      "backImg": "https://example.com/womenproductback5.jpg",
+      "price": 39.99,
+      "productName": "Stylish Women's Watch",
+      "category": "Accessories",
+      "starRating": 4.5
+    },
+    {
+      "id": 13,
+      "img": "https://example.com/menproduct4.jpg",
+      "backImg": "https://example.com/menproductback4.jpg",
+      "price": 49.99,
+      "productName": "Classic Men's Tie",
+      "category": "MenProducts",
+      "starRating": 4.0
+    },
+    {
+      "id": 14,
+      "img": "https://example.com/menproduct5.jpg",
+      "backImg": "https://example.com/menproductback5.jpg",
+      "price": 29.99,
+      "productName": "Casual Men's Jeans",
+      "category": "MenProducts",
+      "starRating": 4.3
+    },
+    {
+      "id": 15,
+      "img": "https://example.com/menproduct6.jpg",
+      "backImg": "https://example.com/menproductback6.jpg",
+      "price": 39.99,
+      "productName": "Stylish Men's Belt",
+      "category": "MenProducts",
+      "starRating": 3.8
+    },
+    {
+      "id": 16,
+      "img": "https://example.com/womenproduct6.jpg",
+      "backImg": "https://example.com/womenproductback6.jpg",
+      "price": 29.99,
+      "productName": "Fashionable Women's Scarf",
+      "category": "Accessories",
+      "starRating": 4.6
+    },
+    {
+      "id": 17,
+      "img": "https://example.com/womenproduct7.jpg",
+      "backImg": "https://example.com/womenproductback7.jpg",
+      "price": 44.99,
+      "productName": "Chic Women's Backpack",
+      "category": "WomenProducts",
+      "starRating": 4.1
+    },
+    {
+      "id": 18,
+      "img": "https://example.com/womenproduct8.jpg",
+      "backImg": "https://example.com/womenproductback8.jpg",
+      "price": 34.99,
+      "productName": "Elegant Women's Hat",
+      "category": "Accessories",
+      "starRating": 4.4
+    },
+    {
+      "id": 19,
+      "img": "https://example.com/menproduct7.jpg",
+      "backImg": "https://example.com/menproductback7.jpg",
+      "price": 39.99,
+      "productName": "Classic Men's Wallet",
+      "category": "MenProducts",
+      "starRating": 4.2
+    },
+    {
+      "id": 20,
+      "img": "https://example.com/menproduct8.jpg",
+      "backImg": "https://example.com/menproductback8.jpg",
+      "price": 49.99,
+      "productName": "Stylish Men's Sunglasses",
+      "category": "MenProducts",
+      "starRating": 4.7
+    },
+    {
+      "id": 21,
+      "img": "https://example.com/womenproduct9.jpg",
+      "backImg": "https://example.com/womenproductback9.jpg",
+      "price": 29.99,
+      "productName": "Casual Women's Tote Bag",
+      "category": "WomenProducts",
+      "starRating": 3.9
+    },
+    {
+      "id": 22,
+      "img": "https://example.com/womenproduct10.jpg",
+      "backImg": "https://example.com/womenproductback10.jpg",
+      "price": 39.99,
+      "productName": "Stylish Women's Gloves",
+      "category": "Accessories",
+      "starRating": 4.3
+    },
+    {
+      "id": 23,
+      "img": "https://example.com/menproduct9.jpg",
+      "backImg": "https://example.com/menproductback9.jpg",
+      "price": 34.99,
+      "productName": "Casual Men's Sneakers",
+      "category": "MenProducts",
+      "starRating": 4.5
+    },
+    {
+      "id": 24,
+      "img": "https://example.com/menproduct10.jpg",
+      "backImg": "https://example.com/menproductback10.jpg",
+      "price": 44.99,
+      "productName": "Fashionable Men's Hat",
+      "category": "MenProducts",
+      "starRating": 4.0
+    },
+    {
+      "id": 25,
+      "img": "https://example.com/womenproduct11.jpg",
+      "backImg": "https://example.com/womenproductback11.jpg",
+      "price": 54.99,
+      "productName": "Elegant Women's Necklace",
+      "category": "Accessories",
+      "starRating": 4.2
+    },
+    {
+      "id": 26,
+      "img": "https://example.com/womenproduct12.jpg",
+      "backImg": "https://example.com/womenproductback12.jpg",
+      "price": 39.99,
+      "productName": "Chic Women's Bracelet",
+      "category": "Accessories",
+      "starRating": 4.6
+    },
+    {
+      "id": 27,
+      "img": "https://example.com/menproduct11.jpg",
+      "backImg": "https://example.com/menproductback11.jpg",
+      "price": 49.99,
+      "productName": "Casual Men's Backpack",
+      "category": "MenProducts",
+      "starRating": 4.1
+    },
+    {
+      "id": 28,
+      "img": "https://example.com/menproduct12.jpg",
+      "backImg": "https://example.com/menproductback12.jpg",
+      "price": 29.99,
+      "productName": "Stylish Men's Belt",
+      "category": "MenProducts",
+      "starRating": 3.8
+    },
+    {
+      "id": 29,
+      "img": "https://example.com/womenproduct13.jpg",
+      "backImg": "https://example.com/womenproductback13.jpg",
+      "price": 44.99,
+      "productName": "Fancy Women's Ring",
+      "category": "Accessories",
+      "starRating": 4.0
+    },
+    {
+      "id": 30,
+      "img": "https://example.com/womenproduct14.jpg",
+      "backImg": "https://example.com/womenproductback14.jpg",
+      "price": 34.99,
+      "productName": "Elegant Women's Wallet",
+      "category": "Accessories",
+      "starRating": 4.3
+    }
+  ]
+  

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 148,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 29.99,
+        "productName": "Product 1",
+        "category": "Electronics",
+        "starRating": 5
+    },
+    {
+        "id": 149,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 39.99,
+        "productName": "Product 2",
+        "category": "Clothing",
+        "starRating": 4
+    },
+    {
+        "id": 150,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 49.99,
+        "productName": "Product 3",
+        "category": "Accessories",
+        "starRating": 4.5
+    },
+    {
+        "id": 151,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 19.99,
+        "productName": "Product 4",
+        "category": "Home Decor",
+        "starRating": 3.8
+    },
+    {
+        "id": 152,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 19.99,
+        "productName": "Product 5",
+        "category": "Home Decor",
+        "starRating": 4.2
+    },
+    {
+        "id": 153,
+        "img": "https://i.ibb.co/FzTm0Nz/m-01-374b59b6-116e-425e-b724-57a5ee35ea56-360x.webp",
+        "backImg": "https://i.ibb.co/GJ7Kh2C/m-02-3f67a032-275b-44ef-aaab-7cb864c8b25b-360x.webp",
+        "price": 19.99,
+        "productName": "Product 6",
+        "category": "Home Decor",
+        "starRating": 4.7
+    }
+]

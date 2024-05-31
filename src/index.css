@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'mabella';
+  src: url('./ClientSide/Fonts/Mabella.TTF') format('TTF');
+
+}
+
+@layer components {
+  .section-gap {
+    @apply pt-[100px]  ;
+  }
+  .btn {
+    @apply  px-[8px] py-[5px] bg-slate-100 text-black  ;
+  }
+  .size-button{
+    @apply border border-[#b1b1b1] px-3   text-[#B1B1B1]
+  }
+  
+}
+
+@layer base {
+  h1{
+    @apply md:text-4xl text-2xl font-serif text-center ;
+  }
+  header {
+    @apply text-[#b1b1b1] text-[13px] bg-black  h-[45px] flex justify-center items-center;
+  }
+  li{
+    @apply text-white  
+  }
+  /* hover:text-[#B1B1B1] */
+}
